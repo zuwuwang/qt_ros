@@ -22,7 +22,7 @@ Includes templates and create scripts for quickly developing qt-based ros packag
 * make
 * sudo make install
 
-* Install configuration: ""
+=== Install configuration: ===
 * Installing: /usr/local/_setup_util.py
 * Installing: /usr/local/env.sh
 * Installing: /usr/local/setup.bash
@@ -41,7 +41,7 @@ mkdir build && cd build
 make
 sudo make install
 
-*Install the project...
+=== Install the project... ===
 * Install configuration: ""
 * Installing: /usr/local/_setup_util.py
 * Installing: /usr/local/env.sh
@@ -131,7 +131,7 @@ Writing /usr/local/lib/python2.7/dist-packages/qt_create-0.2.10.egg-info
 * make
 * sudo make install
 
-Install the project...
+=== Install the project...===
 *Install configuration: ""
 * Installing: /usr/local/_setup_util.py
 * Installing: /usr/local/env.sh
